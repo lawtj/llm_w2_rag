@@ -1,0 +1,6 @@
+.rag_demo
+__pycache__
+credentials.json
+token.json
+.env
+data/
